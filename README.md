@@ -18,7 +18,7 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 - **Análise Detalhada**: Comparação dos resultados inseridos com os valores de referência, oferecendo uma análise clara e objetiva.
 - **Armazenamento Seguro**: Utiliza um banco de dados MySQL para manter os valores de referência atualizados e seguros.
 
-Exam-E: https://exam-e-ten.vercel.app
+Exam-E: https://exam-e-ten.vercel.app  
 Portifolio: https://candidofachini.vercel.app  
 LinkedIn: linkedin.com/in/candido-fachini-neto-927926235/  
 G-mail: candidofachini25@gmail.com
